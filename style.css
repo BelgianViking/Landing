@@ -1,0 +1,36 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  background: url(header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Skranji', cursive;
+}
+
+h1{
+	color:white;
+	font-size: 5rem;
+}
+.buffer{
+	height: 15rem;
+}
+.btn{
+
+}
+.btn-xl{
+	padding:0rem 1rem;
+}
+.btn-outline-dark{
+	color:white;
+	border-color: #ff9c00;
+	border-width: 2px;
+	font-size: 2rem
+}
+.btn-outline-dark:hover{
+	background-color:#ff9c00;
+	color:black;
+	border-color: #724703;
+}
